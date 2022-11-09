@@ -190,7 +190,16 @@
 html, body {
 	color: #fff;
 	background-color: #3b3b3b;
-	font-family: 'PantonBlackCaps', sans-serif;
-  height: 100%;
-  width: 100%;
+	font-family: 'Nexa-Regular', sans-serif;
+}
+
+details{
+	margin: 50px 50px;
+	font-size: 28px;
+}
+details summary{
+	cursor: pointer;
+}
+details a{
+	color: #fff;
 }
