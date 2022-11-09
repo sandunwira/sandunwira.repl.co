@@ -1,0 +1,196 @@
+/*--Fonts Faces Declaration Start-----------------------------------------*/
+/*-----------------------------American Copper Black--*/
+@font-face {
+  font-family: 'AmericanCopperBlock-BoldItalic';
+  src: url('fonts/AmericanCopperBlock-BoldItalic.ttf')  format('truetype');
+}
+/*-----------------------------American Copper Black--*/
+/*--Bahnschrift---------------------------------------*/
+@font-face {
+  font-family: 'Bahnschrift';
+  src: url('fonts/Bahnschrift.ttf')  format('truetype');
+}
+/*--Bahnschrift---------------------------------------*/
+/*--------------------------------------------Benzin--*/
+@font-face {
+  font-family: 'Benzin-Bold';
+  src: url('fonts/Benzin-Bold.ttf')  format('truetype');
+}
+@font-face {
+  font-family: 'Benzin-ExtraBold';
+  src: url('fonts/Benzin-ExtraBold.ttf')  format('truetype');
+}
+@font-face {
+  font-family: 'Benzin-Regular';
+  src: url('fonts/Benzin-Regular.ttf')  format('truetype');
+}
+@font-face {
+  font-family: 'Benzin-SemiBold';
+  src: url('fonts/Benzin-SemiBold.ttf')  format('truetype');
+}
+/*--------------------------------------------Benzin--*/
+/*--Big Noodle Titling--------------------------------*/
+@font-face {
+  font-family: 'BigNoodleTitling';
+  src: url('fonts/BigNoodleTitling.ttf')  format('truetype');
+}
+@font-face {
+  font-family: 'BigNoodleTitling-Oblique';
+  src: url('fonts/BigNoodleTitling-Oblique.ttf')  format('truetype');
+}
+/*--Big Noodle Titling--------------------------------*/
+/*---------------------------------------Courier New--*/
+@font-face {
+  font-family: 'CourierNew-Bold';
+  src: url('fonts/CourierNew-Bold.ttf')  format('truetype');
+}
+@font-face {
+  font-family: 'CourierNew-BoldItalic';
+  src: url('fonts/CourierNew-BoldItalic.ttf')  format('truetype');
+}
+@font-face {
+  font-family: 'CourierNew-Italic';
+  src: url('fonts/CourierNew-Italic.ttf')  format('truetype');
+}
+@font-face {
+  font-family: 'CourierNew';
+  src: url('fonts/CourierNew.ttf')  format('truetype');
+}
+/*---------------------------------------Courier New--*/
+/*--Digital 7-----------------------------------------*/
+@font-face {
+  font-family: 'Digital7-Italic';
+  src: url('fonts/Digital7-Italic.ttf')  format('truetype');
+}
+@font-face {
+  font-family: 'Digital7-Mono';
+  src: url('fonts/Digital7-Mono.ttf')  format('truetype');
+}
+@font-face {
+  font-family: 'Digital7-MonoItalic';
+  src: url('fonts/CourierNew-MonoItalic.ttf')  format('truetype');
+}
+@font-face {
+  font-family: 'Digital7';
+  src: url('fonts/Digital7.ttf')  format('truetype');
+}
+/*--Digital 7-----------------------------------------*/
+/*----------------------------------------------Eras--*/
+@font-face {
+  font-family: 'Eras-Bold';
+  src: url('fonts/Eras-Bold.ttf')  format('truetype');
+}
+@font-face {
+  font-family: 'Eras-Demi';
+  src: url('fonts/Eras-Demi.ttf')  format('truetype');
+}
+@font-face {
+  font-family: 'Eras-Light';
+  src: url('fonts/Eras-Light.ttf')  format('truetype');
+}
+@font-face {
+  font-family: 'Eras-Medium';
+  src: url('fonts/Eras-Medium.ttf')  format('truetype');
+}
+/*----------------------------------------------Eras--*/
+/*--Nexa----------------------------------------------*/
+@font-face {
+  font-family: 'Nexa-Bold';
+  src: url('fonts/Nexa-Bold.ttf')  format('truetype');
+}
+@font-face {
+  font-family: 'Nexa-Light';
+  src: url('fonts/Nexa-Light.ttf')  format('truetype');
+}
+@font-face {
+  font-family: 'Nexa-Regular';
+  src: url('fonts/Nexa-Regular.ttf')  format('truetype');
+}
+/*--Nexa----------------------------------------------*/
+/*--------------------------------------------Panton--*/
+@font-face {
+  font-family: 'PantonBlackCaps';
+  src: url('fonts/Panton-BlackCaps.ttf')  format('truetype');
+}
+/*--------------------------------------------Panton--*/
+/*--Posterama Text------------------------------------*/
+@font-face {
+  font-family: 'PosteramaText-Bold';
+  src: url('fonts/PosteramaText-Bold.ttf')  format('truetype');
+}
+/*--Posterama Text------------------------------------*/
+/*------------------------------------------Pristina--*/
+@font-face {
+  font-family: 'Pristina';
+  src: url('fonts/Pristina.ttf')  format('truetype');
+}
+/*------------------------------------------Pristina--*/
+/*--Product Sans--------------------------------------*/
+@font-face {
+  font-family: 'ProductSans-Bold';
+  src: url('fonts/ProductSans-Bold.ttf')  format('truetype');
+}
+@font-face {
+  font-family: 'ProductSans-BoldItalic';
+  src: url('fonts/ProductSans-BoldItalic.ttf')  format('truetype');
+}
+@font-face {
+  font-family: 'ProductSans-Italic';
+  src: url('fonts/ProductSans-Italic.ttf')  format('truetype');
+}
+@font-face {
+  font-family: 'ProductSans-Regular';
+  src: url('fonts/ProductSans-Regular.ttf')  format('truetype');
+}
+/*--Product Sans--------------------------------------*/
+/*----------------------------------------------Rage--*/
+@font-face {
+  font-family: 'Rage';
+  src: url('fonts/Rage.ttf')  format('truetype');
+}
+/*----------------------------------------------Rage--*/
+/*--Stencil-------------------------------------------*/
+@font-face {
+  font-family: 'Stencil';
+  src: url('fonts/Stencil.ttf')  format('truetype');
+}
+/*--Stencil-------------------------------------------*/
+/*----------------------------------------the aliens--*/
+@font-face {
+  font-family: 'thealiens';
+  src: url('fonts/thealiens.ttf')  format('truetype');
+}
+/*----------------------------------------the aliens--*/
+/*--Viga----------------------------------------------*/
+@font-face {
+  font-family: 'Viga-Regular';
+  src: url('fonts/Viga-Regular.ttf')  format('truetype');
+}
+/*--Viga----------------------------------------------*/
+/*----------------------------------------Viner Hand--*/
+@font-face {
+  font-family: 'VinerHand';
+  src: url('fonts/VinerHand.ttf')  format('truetype');
+}
+/*----------------------------------------Viner Hand--*/
+/*--Vivaldi Italic------------------------------------*/
+@font-face {
+  font-family: 'Vivaldi-Italic';
+  src: url('fonts/Vivaldi-Italic.ttf')  format('truetype');
+}
+/*--Vivaldi Italic------------------------------------*/
+/*-----------------------------------Vladimir Script--*/
+@font-face {
+  font-family: 'VladimirScript';
+  src: url('fonts/VladimirScript.ttf')  format('truetype');
+}
+/*-----------------------------------Vladimir Script--*/
+/*-------------------------------------------Fonts Faces Declaration End--*/
+
+html, body {
+	color: #fff;
+	background-color: #3b3b3b;
+	font-family: 'PantonBlackCaps', sans-serif;
+  height: 100%;
+  width: 100%;
+}
